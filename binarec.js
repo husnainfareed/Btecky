@@ -1,6 +1,6 @@
 let recursiveFunction = function (arr, x, start, end) {
 	
-	// Base Condition
+	// Base Condition for recursion
 	if (start > end) return false;
 
 	// Find the middle index
